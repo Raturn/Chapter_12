@@ -5,7 +5,7 @@ iOS 13 Pro를 기준으로 제작했습니다.
 <img src="https://user-images.githubusercontent.com/105588287/173221623-8ed9c5e4-0b67-47d5-8420-131d43ac0427.png" width="350" height="700"/> <img src="https://user-images.githubusercontent.com/105588287/173221803-6febfe10-cdcc-4992-a1eb-b4aae827844c.png" width="350" height="700"/>
 
 # 환경
-xcord
+cord
 # Source
 **목록보여주기**\
 섹션의 개수와 섹션당 열의 개수 설정
