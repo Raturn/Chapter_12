@@ -1,5 +1,5 @@
 # 할 일 목록 앱
-테이블 뷰 컨트롤러를 이용하여 목록을 추가 제거하며 페이지를 이동할 수 있는 앱입니다.\
+테이블 뷰 컨트롤러를 이용하여 목록을 추가 제거하며 를 이동할 수 있는 앱입니다.\
 iOS 13 Pro를 기준으로 제작되었습니다.
 
 <img src="https://user-images.githubusercontent.com/105588287/173221623-8ed9c5e4-0b67-47d5-8420-131d43ac0427.png" width="350" height="700"/> <img src="https://user-images.githubusercontent.com/105588287/173221803-6febfe10-cdcc-4992-a1eb-b4aae827844c.png" width="350" height="700"/>
