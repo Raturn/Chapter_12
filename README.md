@@ -1,7 +1,9 @@
 # 할 일 목록 앱
 테이블 뷰 컨트롤러를 이용하여 목록을 추가 제거하며 페이지를 이동할 수 있는 앱
 
-![메인화면](https://user-images.githubusercontent.com/105588287/173219765-707be28d-8e91-49c4-9752-bcd6b8d44dc7.png) ![책구매](https://user-images.githubusercontent.com/105588287/173219767-9f549995-7d3c-4e67-a6e4-92e58bd51ec1.png)
+
+<img src="https://user-images.githubusercontent.com/105588287/173221623-8ed9c5e4-0b67-47d5-8420-131d43ac0427.png" width="200" height="400"/>
+
 
 # 환경
 xcord
