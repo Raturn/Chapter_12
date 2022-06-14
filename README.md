@@ -1,7 +1,7 @@
 # 할 일 목록 앱
 테이블 뷰 컨트롤러를 이용하여 목록을 추가 제거하며 를 이동할 수 있는 앱입니다.
 
-<img src="https://user-images.githubusercontent.com/105588287/173221623-8ed9c5e4-0b67-47d5-8420-131d43ac0427.png" width="350" height="700"/> <img src="https://user-images.githubusercontent.com/105588287/173221803-6febfe10-cdcc-4992-a1eb-b4aae827844c.png" width="350" height="700"/>
+<img src="https://user-images.githubusercontent.com/105588287/173221623-8ed9c5e4-0b67-47d5-8420-131d43ac0427.png" width="250" height="500"/> <img src="https://user-images.githubusercontent.com/105588287/173221803-6febfe10-cdcc-4992-a1eb-b4aae827844c.png" width="250" height="500"/> <img src="https://user-images.githubusercontent.com/105588287/173471568-89641487-0bbd-450f-a2b1-8b0962bc7309.png" width="250" height="500"/>
 
 # 환경
 cord
