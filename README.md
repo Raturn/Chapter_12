@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/105588287/173221623-8ed9c5e4-0b67-47d5-8420-131d43ac0427.png" width="250" height="500"/> <img src="https://user-images.githubusercontent.com/105588287/173221803-6febfe10-cdcc-4992-a1eb-b4aae827844c.png" width="250" height="500"/> <img src="https://user-images.githubusercontent.com/105588287/173471568-89641487-0bbd-450f-a2b1-8b0962bc7309.png" width="250" height="500"/>
 
 # 환경
-Xcord 13.2.1
+Xcord13
 # Source
 **목록보여주기**\
 섹션의 개수와 섹션당 열의 개수 설정
